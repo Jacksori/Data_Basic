@@ -1,3 +1,5 @@
+### 데이터 다루기 기초
+
 1. Python의 기본적인 사용법 ( 20년 12월)
 2. DataFrame의 기본적인 동작, 시각화 (Matplotlib, seaborn) (21년 1월 1주차)
 3. PowerBI를 이용한 데이터의 시각화 ( 1월 2주차 )
